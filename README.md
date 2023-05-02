@@ -1,10 +1,10 @@
-# template-permissive
-Github repository template for sharing your work under a permissive license
+# template-strongly-reciprocal
+Github repository template for sharing your work under a strongly-reciprocal license
 
 
 ## Introduction
 
-This repository is a base Github repository template for projects in the Prakash Lab, providing a set of defaults to help projects get their work on Github. This repository template is a permissive variant providing a default set of licenses for sharing your work under permissive open-source/open hardware licenses.
+This repository is a base Github repository template for projects in the Prakash Lab, providing a set of defaults to help projects get their work on Github. This repository template is a strongly-reciprocal variant providing a default set of licenses for sharing your work under strongly-reciprocal open-source/open hardware licenses.
 
 Github repositories created using this template must be customized afterwards. Please refer to https://www.notion.so/Github-hosting-of-code-design-files-6c0f5557d3c643098c7cfe3c9de60467 on our lab's private Notion for details and context.
 
@@ -13,7 +13,7 @@ Github repositories created using this template must be customized afterwards. P
 
 ### Making a new repository
 
-Refer to https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template for step-by-step instructions about how to make a repository from a repository template (this repository at https://github.com/prakashlab/template-permissive is a repository template). You should probably make the new repository under the prakashlab organization.
+Refer to https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template for step-by-step instructions about how to make a repository from a repository template (this repository at https://github.com/prakashlab/template-strongly-reciprocal is a repository template). You should probably make the new repository under the prakashlab organization.
 
 ### Customizing the repository details
 
@@ -34,9 +34,9 @@ You should modify the settings of this repository in the *Settings* tab of the r
 
 ### Customizing the `README.md` file
 
-The file you're reading is the repository's `README.md` file. It is shown by default whenever anyone opens the base URL for your repository (which will be of the format https://github.com/prakashlab/template-permissive).
+The file you're reading is the repository's `README.md` file. It is shown by default whenever anyone opens the base URL for your repository (which will be of the format https://github.com/prakashlab/template-strongly-reciprocal).
 
-The first line of the repository's `README.md` file (which is `# template-permissive`) needs to be updated to match the name of your repository. The second line of this file (which is `Github repository template for sharing your work under a permissive license`) needs to be updated to be a short one-line description of your project.
+The first line of the repository's `README.md` file (which is `# template-strongly-reciprocal`) needs to be updated to match the name of your repository. The second line of this file (which is `Github repository template for sharing your work under a strongly-reciprocal license`) needs to be updated to be a short one-line description of your project.
 
 The *Introduction* section in the repository's `README.md` file should be updated to provide a slightly longer (but still brief) description of this project. If your project involves hardware, you may want to include photos and/or videos of the hardware you're sharing. https://github.blog/2021-05-13-video-uploads-available-github/ provides more information about how to embed videos in Markdown files such as this `README.md` file; note that Github does not let you embed iframes into your `README.md` file.
 
@@ -46,11 +46,11 @@ The *Contributing* section of the repository's `README.md` file provides informa
 
 The *Citing* section of the repository's `README.md` file provides information for anyone interested in citing your work in an academic paper. You will need to replace all content in the section. If you would like to create a DOI for a snapshot release of your repository on Zenodo (see https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo for step-by-step instructions on how to do so), you should add the DOI to this section.
 
-The *Licensing* section of the repository's `README.md` file provides information for anyone interested in copying, modifying, or otherwise making use of the work provided by this project. You will need to replace the email address `lietk12@gmail.com` listed near the top of the Licensing section. You will also need to modify the name of the project `template-permissive` listed in each copyright statement. If your project does not include any software, you should remove the *Software* subsection; if your project does not include any hardware, you should remove the *Hardware* subsection. You should also review everything in this section and determine if any other changes need to be made for your specific project.
+The *Licensing* section of the repository's `README.md` file provides information for anyone interested in copying, modifying, or otherwise making use of the work provided by this project. You will need to replace the email address `lietk12@gmail.com` listed near the top of the Licensing section. You will also need to modify the name of the project `template-strongly-reciprocal` listed in each copyright statement. If your project does not include any software, you should remove the *Software* subsection; if your project does not include any hardware, you should remove the *Hardware* subsection. You should also review everything in this section and determine if any other changes need to be made for your specific project.
 
 ### Customizing the `LICENSE` files
 
-If you are changing the licenses described in the Licensing section of the repository's `README.md` file, you will also need to modify the `LICENSE` files provided by this repository - currently, they are named `LICENSE-SHL`, `LICENSE-Apache`, `LICENSE-BlueOak`, and `LICENSE-CC-BY`. Note that the `LICENSE-SHL` file for the Solderpad Hardware License refers to the contents of the `LICENSE-Apache` file, so you should keep the `LICENSE-Apache` file even if your project is hardware-only, as long as you are using the Solderpad Hardware License.
+If you are changing the licenses described in the Licensing section of the repository's `README.md` file, you will also need to modify the `LICENSE` files provided by this repository - currently, they are named `LICENSE-CERN-OHL-S`, `LICENSE-GPL`, and `LICENSE-CC-BY-SA`.
 
 ### Customizing the `CODE_OF_CONDUCT.md` file
 
@@ -97,34 +97,34 @@ You can copy a citation for this paper formatted in APA or BibTex format from th
 
 ## Licensing
 
-We have chosen the following licenses in order to give away our work for free, so that you can freely use for whatever purposes you have, with minimal restrictions while still protecting our disclaimer that this work is provided without any warranties at all. If you're using this project, or if you have questions about the licenses, we'd love to hear from you - please start a new discussion thread in the "Discussions" tab of this repository on Github or email us at lietk12@gmail.com .
+We have chosen the following licenses in order to give away our work for free, with the condition that anything you do which shares or builds upon our work must also be shared under the same licenses. If you're using this project, or if you have questions about the licenses, or if you'd like permission to build upon our work under a different license, we'd love to hear from you - please start a new discussion thread in the "Discussions" tab of this repository on Github or email us at lietk12@gmail.com .
 
 ### Software
 
 Except where otherwise indicated in this repository, software files provided here are covered by the following information:
 
-**Copyright Prakash Lab and template-permissive project contributors**
+**Copyright Prakash Lab and template-strongly-reciprocal project contributors**
 
-SPDX-License-Identifier: `Apache-2.0 OR BlueOak-1.0.0`
+SPDX-License-Identifier: `GPL-3.0-only`
 
-Software files in this project are released under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0) and the [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0); you can use the source code provided here under the Apache License or under the Blue Oak Model License, and you get to decide which license you will agree to. We are making the software available under the Apache license because it's [OSI-approved](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI.html) and it goes well together with the [Solderpad Hardware License](https://solderpad.org/licenses/SHL-2.1/), which is an open hardware license used in various projects released by the Prakash Lab; but we like the Blue Oak Model License more because it's easier to read and understand. Please read and understand the licenses for the specific language governing permissions and limitations.
+Software files in this project are released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0-standalone.html). Please read and understand the licenses for the specific language governing permissions and limitations.
 
 ### Hardware
 
 Except where otherwise indicated in this repository, hardware files provided here are covered by the following information:
 
-**Copyright Prakash Lab and template-permissive project contributors**
+**Copyright Prakash Lab and template-strongly-reciprocal project contributors**
 
-SPDX-License-Identifier: `Apache-2.0 WITH SHL-2.1`
+SPDX-License-Identifier: `CERN-OHL-S-2.0`
 
-Hardware files in this project are released under the [Solderpad Hardware License v2.1](https://solderpad.org/licenses/SHL-2.1/). Note that the Solderpad Hardware License operates as a wraparound license to the Apache License and must be read in conjunction with the Apache License. Please read and understand the licenses for the specific language governing permissions and limitations.
+Hardware files in this project are released under the strongly-reciprocal variant of the [CERN Open Hardware License v2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2). Please read and understand the licenses for the specific language governing permissions and limitations.
 
 ### Everything else
 
 Except where otherwise indicated in this repository, any other files (such as images, media, data, and textual documentation) provided here not already covered by software or hardware licenses (described above) are instead covered by the following information:
 
-**Copyright Prakash Lab and template-permissive project contributors**
+**Copyright Prakash Lab and template-strongly-reciprocal project contributors**
 
-SPDX-License-Identifier: `CC-BY-4.0`
+SPDX-License-Identifier: `CC-BY-SA-4.0`
 
-Files in this project are released under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please read and understand the license for the specific language governing permissions and limitations.
+Files in this project are released under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Please read and understand the license for the specific language governing permissions and limitations.
