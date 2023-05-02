@@ -107,7 +107,7 @@ Except where otherwise indicated in this repository, software files provided her
 
 SPDX-License-Identifier: `GPL-3.0-only`
 
-Software files in this project are released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0-standalone.html). Please read and understand the licenses for the specific language governing permissions and limitations.
+Software files in this project are released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0-standalone.html). Please read and understand the license for the specific language governing permissions and limitations.
 
 ### Hardware
 
@@ -117,7 +117,7 @@ Except where otherwise indicated in this repository, hardware files provided her
 
 SPDX-License-Identifier: `CERN-OHL-S-2.0`
 
-Hardware files in this project are released under the strongly-reciprocal variant of the [CERN Open Hardware License v2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2). Please read and understand the licenses for the specific language governing permissions and limitations.
+Hardware files in this project are released under the strongly-reciprocal variant of the [CERN Open Hardware License v2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2). Please read and understand the license for the specific language governing permissions and limitations.
 
 ### Everything else
 
